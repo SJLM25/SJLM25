@@ -1,82 +1,46 @@
-<h1 align="center">Hello Guys! We Are OSSInsight! 👁️</h1>
+<h1 align="center">Hi 👋, I'm <a>
+Sadan</a></h1>
+<h3 align="center">A passionate Junior Data Scientist and Machine Learning developer from Jalisco, Mexico</h3>
 
-<div align="center">
-<a href="https://ossinsight.io">
-  <img src="/web/static/img/screenshots/homepage.gif" height=360
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
-</div>
 
-<h4 align="center">
-  <b><a href="https://ossinsight.io/explore/">Data Explorer</a></b>
-  •
-  <b><a href="https://ossinsight.io/collections/open-source-database">Repo Rankings</a></b>
-  •
-  <b><a href="https://ossinsight.io/analyze/Ovilia">Developer Analytics</a></b>
-  •
-  <a href="https://ossinsight.io/analyze/pingcap/tidb">Repo Analytics</a>
-  •
-  <a href="https://ossinsight.io/collections/open-source-database">Collections</a>
-  •
-  <a href="https://ossinsight.io/docs/workshop">Workshop</a>
-  •
-  <a href="https://ossinsight.io/blog">Blog</a>
-  •
-  <a href="https://ossinsight.io/docs">API</a>
-  •
-  <a href="https://twitter.com/OSSInsight">Twitter</a>
-</h3>
+- 🔭 I’m currently studing a Master Degree in Applied Mathematics
+ My work bridges academic research and practical applications, with a focus on solving real-world problems using:
+- 📊 Data Analysis & Visualization: Crafting compelling narratives from raw data with tools like Pandas, Matplotlib, Seaborn, and Plotly.
+- 🤖 Machine Learning & AI: Building predictive models using Scikit-Learn, TensorFlow, Keras, and PyTorch.
+- 🔢 Applied Mathematics: Leveraging advanced mathematical techniques for optimization, simulations, and numerical solutions with NumPy, SciPy, and SymPy.
+- 💻 Programming Skills: Proficient in Python, R, and SQL, integrating libraries like Statsmodels, NetworkX, and NLTK for specialized tasks.
 
-## Introduction
+- 📫 How to reach me **sadan.lopez.15@gmail.com**
 
-OSS Insight is a powerful tool that provides comprehensive, valuable, and trending insights into the open source world by analyzing 6+ billion rows of GitHub events data. 
- 
-[🎦 Video - OSS Insight: Easiest New Way to Analyze Open Source Software](https://www.youtube.com/watch?v=6ofDBgXh4So&t=1s)
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
-## Embed Real-time Widget in Repo's / Personal README.md within 30s!
+<p align="center">
 
-For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/widgets?utm_source=github&utm_medium=referral), here are some examples:
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="www.linkedin.com/in/sadan-lopez-439bb0243">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/SJLM25">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/12053852/saurabh-chavan?tab=profile">
+				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
+      </div>
 
+</p>
 
-| Repository Activity Trends | Collaborative Productivity - Last 28 days |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-collaborative-productivity/thumbnail.png?repo_id=41986369&image_size=auto" />|
+### Blogs posts
 
-| Repository Performance Stats - Last 28 days | Active Contributors - Last 28 days |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors/thumbnail.png?repo_id=41986369&limit=100&image_size=auto"/>|
+<!-- BLOG-POST-LIST:START -->
 
-| Star Geographic Distribution | Star History |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-map/thumbnail.png?activity=stars&repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history/thumbnail.png?repo_id=41986369&image_size=auto" />|
+- [Download Instagram profile picture using python](https://dev.to/100rabhcsmc/instagram-profile-picture-download-using-python-n2j)
+- [Convert a image to sketch using python](https://dev.to/100rabhcsmc/convert-a-image-to-sketch-using-python-3ip1)
+- [Upload your project/files in GitHub using commands](https://dev.to/100rabhcsmc/upload-your-project-files-in-github-using-commands-1hn8)
+<!-- BLOG-POST-LIST:END -->
 
-| Company Affiliation | Lines of Code Changes |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-company/thumbnail.png?activity=stars&repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-loc-per-month/thumbnail.png?repo_id=41986369&image_size=auto" />|
+---
 
-| Pull Request Size | Pull Request Lifecycle |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-pull-requests-size-per-month/thumbnail.png?repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-pull-request-open-to-merged/thumbnail.png?repo_id=41986369&image_size=auto" />|
+Credit: [Saurabh Chavan](https://github.com/100rabhcsmc)
 
-| Currently Working On - Last 28 days | Top Active Contributors - Last 28 Days |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&user_id=12960671&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/compose-recent-top-contributors/thumbnail.png?repo_id=41986369&image_size=auto" />|
-
-| Repository Annual Ranking | Find More |
-| ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/collection-annually-ranking/thumbnail.png?activity=stars&collection_id=2&image_size=auto" />|<a href="https://next.ossinsight.io/widgets?utm_source=github&utm_medium=referral">Visit our website</a >|
-
-## Contact us
-
-<a href="https://twitter.com/OSSInsight" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-
-<a href="https://github.com/pingcap/ossinsight/discussions" target="_blank">
-<img src=https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-
-<a href="mailto:ossinsight@pingcap.com" target="_blank">
-<img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
-
-## Sponsors
-<a href="https://en.pingcap.com/tidb-cloud/?utm_source=ossinsight&utm_medium=referral">
-<img src="/web/static/img/tidb-cloud-logo-w.png" height=50 />
-</a>
+Last Edited on: 08/08/2022
